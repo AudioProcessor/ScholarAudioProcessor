@@ -11,6 +11,9 @@ http://www.linux-mitterteich.de/fileadmin/datafile/papers/2013/qemu_raspiemu_lug
 ======================
 
 
+![alt tag](https://raw.github.com/AudioProcessor/ScholarAudioProcessor/master/Diagrama-Base-controlador-Raspberry.jpg)
+
+
 Sobre el diagrama: 
 
 El audio (pre amplificado) "entrará" al raspberry por medio de una tarjeta de sonido.
